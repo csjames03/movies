@@ -1,5 +1,4 @@
 import { Inter } from '@next/font/google'
-import styles from './page.module.css'
 import Movie from './Movie'
 const inter = Inter({ subsets: ['latin'] })
 
