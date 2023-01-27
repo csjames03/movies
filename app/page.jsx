@@ -3,7 +3,7 @@ import Movie from './Movie'
 const inter = Inter({ subsets: ['latin'] })
 
 async function getData(){
-  const res = await fetch(`https://api.themoviedb.org/3/movie/popular?api_key=77fc4e87dcbfeab9d5b4b72c9682f909`)
+  const res = await fetch(`https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}`)
   if(!res.ok){
     throw new Error("Failed to fetch data")
   }
