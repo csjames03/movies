@@ -14,6 +14,7 @@
     "eslint-config-next": "13.1.5",
     "next": "13.1.5",
     "react": "18.2.0",
+    "react-copyright": "^0.0.1",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
