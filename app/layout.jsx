@@ -12,7 +12,6 @@ export default function RootLayout({ children }) {
       <body>
         <nav className='w-full h-auto flex justify-evenly p-5 fixed bg-neutral-900 z-10'>
           <Link href={"/"} className="hover:text-red-500 hover:scale-110 transition duration-300 ease-in-out">Popular</Link>
-          <Link href={"/latest"} className="hover:text-red-500 hover:scale-110 transition duration-300 ease-in-out">Latest</Link>
           <Link href={"/toprated"} className="hover:text-red-500 hover:scale-110 transition duration-300 ease-in-out">Top Rated</Link>
           <Link href={"/upcoming"} className="hover:text-red-500 hover:scale-110 transition duration-300 ease-in-out">Upcoming</Link>
         </nav>
