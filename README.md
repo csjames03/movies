@@ -63,7 +63,7 @@
 ## About The Project
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
-      <a href="https://github.com/csjames03">`csjames03<`/a>, `csjames0303@gmail.com`, `Movie Detail`, `A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.`
+      csjames03`, `csjames0303@gmail.com`, `Movie Detail`, `A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
