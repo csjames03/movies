@@ -62,24 +62,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: <a href="https://github.com/csjames03">`csjames03<`/a>, `csjames0303@gmail.com`, `Movie Detail`, `A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
+      <a href="https://github.com/csjames03">`csjames03<`/a>, `csjames0303@gmail.com`, `Movie Detail`, `A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+              <a href="https://nextjs.org/">Next Js</a>
+              <a href="https://tailwind.com/">TailwindCSS</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
