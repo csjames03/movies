@@ -16,7 +16,7 @@
 <h3 align="center">Move Details</h3>
 
   <p align="center">
-    project_description
+    A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.
     <br />
     <a href="https://github.com/csjames03/movies"><strong>Explore the docs »</strong></a>
     <br />
