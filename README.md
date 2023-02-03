@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/csjames03/movies">
-    <img src="/public/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/logo.png" alt="Logo" width="500" height="auto">
   </a>
 
 <h3 align="center">Move Details</h3>
