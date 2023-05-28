@@ -21,7 +21,7 @@
     <a href="https://github.com/csjames03/movies"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="movies-7j4nslcee-csjames03.vercel.app">View Demo</a>
+    <a href="[movies-7j4nslcee-csjames03.vercel.app](https://movies-7j4nslcee-csjames03.vercel.app/)">View Demo</a>
     ·
     <a href="https://github.com/csjames03/movies/issues">Report Bug</a>
     ·
@@ -70,8 +70,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-              <a href="https://nextjs.org/">Next Js</a>
-              <a href="https://tailwind.com/">TailwindCSS</a>
+              Next Js
+              Tailwind CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
