@@ -6,6 +6,8 @@
   <a href="https://github.com/csjames03/movies">
     <img src="<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
+# Movie Details App
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -13,100 +15,47 @@
     <img src="/public/logo.png" alt="Logo" width="500" height="auto">
   </a>
 
-<h3 align="center">Move Details</h3>
+## Description
 
-  <p align="center">
-    A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.
-    <br />
-    <a href="https://github.com/csjames03/movies"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://movies-7j4nslcee-csjames03.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/csjames03/movies/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/csjames03/movies/issues">Request Feature</a>
-  </p>
-</div>
+The Movie Details App is a dynamic web application that showcases top-rated and upcoming movies. Utilizing the "The Movie Database" (TMDb) API, users can explore essential information about various films, including title, release year, plot summary, cast, and ratings. Powered by Next.js and styled with Tailwind CSS, the app offers a seamless user experience and is deployed on Vercel for efficient hosting.
 
+## Features
 
+- **Top-Rated Movies:** The app presents a curated list of top-rated movies, allowing users to discover critically acclaimed films.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a>  <a href="https://nextjs.org/">Next Js</a> <a href="https://tailwindcss.com/">TailwindCSS</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+- **Upcoming Movies:** Users can explore a collection of upcoming movie releases, keeping them informed about the latest cinematic releases.
 
+- **Movie Details:** Upon selecting a movie from the lists, the app displays comprehensive details about the chosen film, including cast, plot summary, and ratings.
 
+- **User-Friendly Interface:** The app boasts an intuitive and visually appealing design, ensuring ease of use for all users.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+- **Responsive Design:** The app is optimized for a wide range of devices, offering a consistent and enjoyable experience across desktops, tablets, and mobile phones.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: 
-      csjames03`, `csjames0303@gmail.com`, `Movie Detail`, `A web-based movie information display built using Next.js and Tailwind CSS, with data sourced from The Movie Database API.`
+## Technologies Used
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- **Next.js:** The app is built using Next.js, a powerful React framework, enabling server-side rendering and dynamic routing for enhanced performance.
 
+- **Tailwind CSS:** Tailwind CSS is employed for styling the app, providing a utility-first approach and maintaining a sleek and responsive design.
 
+- **The Movie Database (TMDb) API:** The app leverages the TMDb API to fetch movie details and information.
 
-### Built With
-              Next Js
-              Tailwind CSS
+- **Vercel:** The app is deployed on Vercel, ensuring efficient hosting and seamless deployment of updates.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## How to Use the App
 
+1. Visit the deployed app on Vercel to start exploring top-rated and upcoming movies.
 
+2. Select a movie from the respective lists to view comprehensive details about the chosen film.
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Contributions and Issues
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Contributions to the project are welcome! If you encounter any issues or have ideas to enhance the app's functionality, feel free to create an issue or submit a pull request in the repository.
 
-### Prerequisites
+## License
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+The Movie Details App is released under the [MIT License](link-to-license), granting users the freedom to use, modify, and distribute the software.
 
-### Installation
+## Contact
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+For any inquiries or assistance, please contact us at [csjames0303@gmail.com](mailto:csjames0303@gmail.com). Enjoy discovering and exploring the world of movies with our Movie Details App!
 
