@@ -1,12 +1,11 @@
 
-### Movie Details App
+## Movie Details App
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/csjames03/movies">
     <img src="<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-# Movie Details App
 
 <!-- PROJECT LOGO -->
 <br />
