@@ -1,7 +1,7 @@
 import Image from "next/image"
 export default async function({ params }){
     const { movie } = params
-    const data = await fetch(`https://api.themoviedb.org/3/movie/${movie}?api_key=${process.env.API_KEY}`)
+    const data = await fetch(`https://api.themoviedb.org/3/movie/${movie}?api_key=${process.env.API_KEY}`, { cache: 'no-store' })
     const movies = await data.json()
     return(
         <div className="w-screen h-auto p-10 text-red-200 mt-10">
